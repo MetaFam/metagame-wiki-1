@@ -1,125 +1,19 @@
----
-title: 💫 House of DAOs
-image: https://imgur.com/1Kezv9Q.png
----
-
-![](https://imgur.com/1Kezv9Q.png)
-
-<details>
-
-
-<summary>🤨👉Wait, WTF are DAOs???👈</summary>
-<br />
-
-Short for “Decentralized Autonomous Organizations”, DAOs are a new type of organization, enabled by blockchain technology. Decentralized organizations are nothing new, what makes DAOs different from “just” decentralized organizations is that they are constituted on the blockchain and their governance is, at least in theory, controlled by smart contracts.
-
-This allows people to start organizations with complete strangers from around the world and not worry whether one of them will run away with the money, where will the organization be formed and how will they govern the treasury. The ownership of a DAO is usually tokenized and distributed among members, with its issuance not centrally controlled by anyone.
-
-There are multiple types of “decentralizations”. Some will say “A DAO” only implies architectural decentralization; the technology itself. While one may _have_ “a DAO” whose governance is centralized in a single or a few big shareholders, we do not consider those true DAOs.
-
-If you ask most of us, a DAO should be both architecturally AND politically decentralized to truly be considered a DAO. For a DAO to be considered politically decentralized, it’s voting power should be _sufficiently_ decentralized among its members. How much is sufficient? Well who the hell knows, we’ll figure it out.
-
-If you ask me, DAOs are here to enable us to build a world of cooperatively ran organizations and collectively owned platforms & infrastructure.
-
-### To recap:
-
-- There is no centralized control in the DAO. There is no “CEO” and no single individual may dictate direction.
-- There isn’t a hierarchy in any traditional sense, no “managerial” & “executive” layers.
-- Members allocate resources and make decisions about the direction and initiatives through voting on proposals or practicing other decentralized decision-making methods, eg. [Holacracy’s Integrative Decision Making Process](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc)
-- There is complete transparency in every transaction.
-
-</details>
-
-
-## 🏗️DAO Frameworks
-
-These are the frameworks for launching DAOs on the Ethereum network:
-
-- **[DAOHaus](https://daohaus.club/)** - Magic internet communities for all. Share resources & get shit done. Together.
-- **[Aragon](https://aragon.org/)** - Aragon gives internet communities unprecedented power to organize around shared values and resources.
-- **[Colony](https://colony.io/)** - Organizations, for the Internet. Colony makes it easy for people all over the world to build organizations together, online.
-- **[DAOstack](https://daostack.io/)** - An open-source project advancing the technology and adoption of decentralized governance.
-- **[Gardens](https://gardens.1hive.org/#/home)** - Gardens are digital economies that anyone can help shape.
-- **[Syndicate](https://syndicate.io/)** - Transform any wallet into a powerful web3 investment club.
-- **[MetaSys](https://wiki.metagame.wtf/docs/Guilding/metasys)** - A meta framework for DAOs; a combination of tools & a philosophy put together by MetaGame.
-
-## 🛠️Other Infrastructure
-### Project/work management
-- **[Sobol](https://sobol.io/)** - Sobol maps accountability across your entire ecosystem so teams can move fast with alignment and trust. 
-- **[Clarity](https://www.clarity.so/)** - The simplest workspace for decentralized teams. Easily plan projects, track tasks, and stay organized.
-- **[Skiff](https://www.skiff.org/)** - Private & decentralized workspace. Everything on Skiff is end-to-end encrypted.
-- **[Dework](https://dework.xyz/)** - A web3-native Trello with token payments, credentialing, bounties and more.
-- **[Puzzle](https://www.getpuzzle.xyz/)** - Build a real collaboration space for contributors, connected to your Discord.
-
-### Contribution accounting
-- **[Sourcecred](https://sourcecred.io/)** - A tool for communities to measure and reward value creation.
-- **[Coordinape](https://coordinape.com/)** - Scale your community with tools to reward contributors, incentivize participation and manage resources
-- **[Dish Praise](https://wiki.commonsstack.org/contributors-guide)** - The simplest tool for rewarding contributors.
-
-### Treasury/salary management
-- **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet/treasury for DAOs.
-- **[Llama](https://llama.xyz/)** - Llama enables decentralized communities to allocate their treasuries and assess results.
-- **[Parcel](https://parcel.money/)** - A suite of tools to scale DAO financial operations and empower DAO contributors. 
-- **[Superfluid](https://www.superfluid.finance/)** - Handle subscriptions, salaries, rewards and any composable stream of value.
-
-### Membership management/token gating
-- **[Collab.land](https://collab.land/)** - A bot helping manage memberships in token curated communities.
-- **[Unlock Protocol](https://unlock-protocol.com/)** - Add memberships & unlock ownership of your community, across all your platforms.
-- **[Agora Space](https://agora.space/)** - Token-Gated Access for DAOs and Social Tokens
-
-### Governance
-- **[Boardroom](https://www.boardroom.info/)** - Boardroom is a management platform helping people participate in DAO governance.
-- **[Snapshot](https://snapshot.org/#/)** - Snapshot is a free, open-source, transparent voting framework.
-- **[Tally](https://www.withtally.com/)** - Tally empowers user-owned communities & aggregates governance.
-
-### Market making/liquidity
-- **[Balancer](https://balancer.exchange/)** - An automated market-maker with more options.
-- **[Uniswap](https://uniswap.org/)** - An automated market-maker, for making your token tradeable.
-- **[PrimeDAO](https://www.prime.xyz/)** - Launch, Rate, Pool and Venture: together.
-
-### Legal
-- **[Etherize](https://etherize.io/)** - Summon a legal wrapper for your DAO.
-- **[Otonomos](https://otonomos.com/)** - Otonomos helps the crypto community form offchain and onchain legal entities.
-- **[Open Esquire](https://openesq.tech/)** - Enabling The Next Generation of Legal Services.
-
-## 🥰Friendly DAOs
-This is by no means an extensive list of DAOs. These are the DAOs that we share at least one member with; DAOs that we trust.
-For a full list of Ethereum based DAOs, [check DeepDAO](http://deepdao.io).
-
-#### 💪A Few Builder DAOs
-
-- 🐝 **[1Hive](https://1hive.org/)** - Exploring how to create and organize a global community and using magic internet money as a catalyst.
-- ⚪ **[Deep Work](https://deepwork.studio/)** - Deep Work is a distributed product design studio that helps highly technical teams move to product-market fit, faster.
-- ⚔️ **[Raid Guild](https://raidguild.org/)** - A Decentralized Collective of Mercenaries Ready to Slay Your Web3 Product Demons - also slaying their own demons.
-- 💫 **[Token Engineering](https://tokenengineeringcommunity.github.io/website/)** - Here to answer the following question: “What does it take to do token engineering, and how can we forward this nascent discipline together?”
-- ⚖️ **[LexDAO](https://lexdao.org/)** - The decentralized legal engineering guild.
-- **YourDAO** - This could be you. Do you already have a DAO? Want to start one?
-
-#### 💰Some Funding DAOs
-
-Some of the DAOs with the purpose of funding projects in the Ethereum space could possibly fund your DAO.
-
-- **[MetaCartel](https://www.metacartel.org/)** - An ecosystem of builders giving grants to decentralized applications, scaling solutions & DAOs on the Ethereum blockchain.
-- **[Moloch DAO](https://www.molochdao.com/)** - Awards grants to advance the Ethereum ecosystem.
-- **[MetaCartel Ventures](https://metacartel.xyz/)** - A for-profit, venture capital DAO.
-- **[The LAO](https://www.thelao.io/)** - A global group of Ethereum enthusiasts and experts supporting the work of Ethereum builders.
-
-## 💸DAO Funding
-
-A few more ways of getting some funds.
-
 - **[Gitcoin](https://gitcoin.co/grants/)** - Another route you could take is playing Gitcoin’s quadratic matching game. Read more about it [here](https://ethgasstation.info/blog/quadratic-funding-in-a-nutshell/).
-- **[Panvala](https://twitter.com/PanvalaHQ)** - _Panvala is the sustainable treasury for communities to share._
+- **[Panvala](https://twitter.com/PanvalaHQ)** - Panvala is the sustainable treasury for communities to share.
 - **[Free Company](https://freecompany.capital/)** - Free Company is a syndicate of experienced Web3 builders investing empathy-driven capital into early-stage blockchain projects.
-- **[fair launch capital](https://www.fairlaunch.capital/)** - The Fair Launch enables founders to leverage existing networks to bootstrap distribution and build long-term, highly engaged, collaborative communities.
+- **[Fair launch capital](https://www.fairlaunch.capital/)** - The Fair Launch enables founders to leverage existing networks to bootstrap distribution and build long-term, highly engaged, collaborative communities.
+- **[Giveth.io](https://giveth.io/projects)** - For-good projects creating value for society and the environment
+- **[Mirror.xyz](https://mirror.xyz/)** - Start a crowdfunding campaign on Mirror.
 
 ## 📅Events
 
-Afaik the only DAO events there are in this space.
+There are a growing number of DAO events in this space.
 
 - **[DAO Rush Week](https://twitter.com/daorushweek)** - Happening once a quarter, DAO Rush Week is a must-attend event for anyone interested in DAO. All the DAOs from the Ethereum space and wider are summoned to present their missions, host parties & initiate new members.
 - **[DAO Haus Party](https://forum.daohaus.club/t/daohaus-live-streams-publications/158)** - DAOHaus Live Streams; go through the DAOHaus Discord if you want to participate.
 - **[Fork The World](https://forktheworld.wtf/)** - Our hackathon for people building DAOs, technologies & knowledge around decentralized organizing. Happening once a year.
+- **[MetaFest2](https://metafest.metagame.wtf/)** - The second year of MetaFest following Fork the World.  Coming soon next year IRL
+- **[The Daoist](https://www.thedaoist.co/)** - Organizing conferences and more around the world
 
 ## 🗨️Forums
 
